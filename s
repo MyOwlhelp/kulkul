@@ -35,6 +35,12 @@
     "r6": true,
     "description": "Become Minecraft-style Steve.\nBlocky character with themed abilities."
   },
+  "Death Angel": {
+    "script": "require(88521859208314).MorphMonster(%q, \"death angel\");",
+    "image": "rbxassetid://140103719233812",
+    "r6": true,
+    "description": "The Death Angel."
+  },
   "Infinite Yield FE": {
     "script": "require(7634392335)(%q);",
     "image": "rbxassetid://112794052517306",
